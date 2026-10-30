@@ -19,7 +19,7 @@ The mechanic proposals, authored board compositions and design reasoning are my 
 ## Contact
 
 - [Email](mailto:tezcns@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/seda-tezcan-4aa0901b4)
+- [LinkedIn](https://www.linkedin.com/in/seda-nur-tezcan-4aa0901b4/)
 - [GitHub](https://github.com/seda-tezcan)
 
 ## Website
